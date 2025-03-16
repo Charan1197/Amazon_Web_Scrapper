@@ -8,7 +8,7 @@ import time
 # driver = webdriver.Chrome(service=service)
 driver = webdriver.Chrome()
 fileno = 0
-query = "Asus+laptop"
+query = "Asus+laptop" # Change this query according to your choice 
 url=f'https://www.amazon.in/s?k={query}&crid=GFI49IGY21O8&sprefix=asus+laptop%2Caps%2C356&ref=nb_sb_noss_1'
 driver.get(url)
 driver.maximize_window()

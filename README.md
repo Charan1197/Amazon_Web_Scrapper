@@ -20,15 +20,14 @@ This project scrapes product data (name, offer price, actual price, and product 
 ## How to Run
 
 1. Clone the repository  
-```
- git clone https://github.com/Charan1197/Amazon_Web_Scrapper.git
- cd amazon-web-scraper
- ```
+```git clone https://github.com/Charan1197/Amazon_Web_Scrapper.git```
+ ```cd amazon-web-scraper```
+ 
  
 2. Install dependencies  
 ```pip install -r requirements.txt```
 
 
 3. Run the script  
-- main.py
-- collect.py
+- First run main.py
+- Then collect.py
